@@ -1,0 +1,72 @@
+body {
+  font-family: "Nanum Pen Script", cursive;
+}
+form {
+  font-family: "Nanum Pen Script", cursive;
+  margin: 0 auto;
+  width: 250px;
+}
+
+.city {
+  font-size: 60px;
+  color: darkblue;
+}
+.temp {
+  font-size: 50px;
+  color: orangered;
+}
+.day_2 {
+  font-size: 20px;
+  position: relative;
+  left: 0;
+  top: -20px;
+  color: blueviolet;
+}
+
+.day_3 {
+  font-size: 20px;
+  position: relative;
+  left: 100px;
+  top: -100px;
+  color: blueviolet;
+}
+
+.day_4 {
+  font-size: 20px;
+  position: relative;
+  left: 200px;
+  top: -182px;
+  color: blueviolet;
+}
+
+.day_5 {
+  font-size: 20px;
+  position: relative;
+  left: 300px;
+  top: -265px;
+  color: blueviolet;
+}
+
+.day_6 {
+  font-size: 20px;
+  position: relative;
+  left: 400px;
+  top: -348px;
+  color: blueviolet;
+}
+.day_7 {
+  font-size: 20px;
+  position: relative;
+  left: 500px;
+  top: -430px;
+  color: blueviolet;
+}
+
+.weather_app {
+  border: 1px solid;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 600px;
+  max-height: 400px;
+  border-radius: 10px;
+}
